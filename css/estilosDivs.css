@@ -1,0 +1,15 @@
+.caja1{
+    background-color: rgb(212, 178, 233);
+    color: rgb(36, 0, 58);
+    border: 2px dashed #5d0000;
+    padding: 24px 44px;
+    margin: 25px 15px;
+}
+
+.caja2{
+    background-color: rgb(178, 233, 186);
+    color: rgb(3, 58, 0);
+    border: 4px dotted #2a00fc;
+    padding: 24px 44px;
+    margin-top: 20px;
+}

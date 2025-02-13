@@ -1,0 +1,28 @@
+.circulo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+
+#circulo1{
+    background-color: rgba(196, 134, 255, 0.329);
+}
+
+
+
+#circulo2{
+    background-color: rgba(113, 241, 134, 0.329);
+    position: absolute;
+    top: 23px;
+}
+
+
+#circulo3{
+    background-color: rgba(243, 253, 149, 0.329);
+}
+
+
+#circulo4{
+    background-color: rgba(167, 255, 179, 0.329);
+}

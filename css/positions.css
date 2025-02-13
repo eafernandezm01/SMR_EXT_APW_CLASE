@@ -1,0 +1,46 @@
+.rojo{
+    background-color: #f00;
+    position: relative;
+    top: 500px;
+}
+
+.verde{
+    background-color: #0f0;
+}
+
+.azul{
+    background-color: #00f;
+}
+
+.amarillo{
+    background-color: rgb(255, 251, 0);
+}
+
+.rosa{
+    background-color: rgb(251, 0, 255);
+}
+
+.circulo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.circulopequeño{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: rgb(81, 255, 220);
+}
+
+.pie{
+    position: fixed;
+    bottom: 0px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+}
+
